@@ -1,6 +1,6 @@
 # SmartContractsStructures 01
 ----
-![Supply Image](Images/ethereum_solidity.jpg)
+![Supply Image](Images/Eth.jpg)
 
 ### My First Contract
 
